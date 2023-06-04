@@ -1,4 +1,4 @@
-public class HomworkTask3CountingLetters {
+public class HomeworkTask3CountingLetters {
     public static void main(String[] args) {
         System.out.println(countingYAndZLettersAtTheEndOfTheWords("fez day"));
         System.out.println(countingYAndZLettersAtTheEndOfTheWords("day fyyyz"));
